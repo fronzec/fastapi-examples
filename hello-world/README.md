@@ -1,6 +1,6 @@
 # Simple REST API using FastAPI
 
-## How to build the container and run the application in the container image
+ How to build the container and run the application in the container image
 ```
 $ podman build -t fastapi .
 $ podman images
